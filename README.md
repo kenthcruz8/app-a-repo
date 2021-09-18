@@ -1,4 +1,3 @@
 # Demo
 
-Description text text text text!
-nausab
+Description text!
